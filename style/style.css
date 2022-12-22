@@ -81,6 +81,19 @@
         max-width: 200px;
     }
 
+    .wrapper_header-img_1, .wrapper_header-img_2, .wrapper_header-img_3, .wrapper_header-img_4{
+        width: 250px;
+        height: 150px;
+    }
+
     .grid_img{
-        filter: grayscale(2);
+        margin: 0 auto;
+        width: 250px;
+        height: 150px;
+    }
+
+    .media_img{
+        width: 250px;
+        height: 150px;
+    }
 }
